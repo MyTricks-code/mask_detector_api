@@ -1,1 +1,1 @@
-# mask_detector_api
+[Colab notebook link](https://colab.research.google.com/drive/1hqtWJcDdRTbSqqKrzvXrhXSjoXC8nwN1#scrollTo=zohSSJOjImop)
